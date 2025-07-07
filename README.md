@@ -34,7 +34,7 @@ Add this dependency to your [pom.xml](file:///Users/mac/IdeaProjects/pptx-tl/pom
 <dependency>
   <groupId>io.github.vipxieliang</groupId>
   <artifactId>pptx-tl</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
 </dependency>
 ```
 
@@ -42,7 +42,7 @@ Add this dependency to your [pom.xml](file:///Users/mac/IdeaProjects/pptx-tl/pom
 Or use this in your `build.gradle`:
 
 ```groovy
-implementation 'io.github.vipxieliang:pptx-tl:1.0.0-SNAPSHOT'
+implementation 'io.github.vipxieliang:pptx-tl:0.0.1-SNAPSHOT'
 ```
 
 Ensure your project uses:
